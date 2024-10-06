@@ -10,7 +10,6 @@ Hola! Soy un joven desarrollador boliviano con una pasión ardiente por la tecno
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArnoldBF&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArnoldBF&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldBF&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArnoldBF&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
