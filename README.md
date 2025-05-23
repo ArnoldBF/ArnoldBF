@@ -1,12 +1,11 @@
 # 💫 About Me:
-Hello! I am a backend developer with some full-stack experience, passionate about technology and eager to learn and grow in the software development world. My drive to excel in every project pushes me to constantly seek challenges that expand my skills and knowledge.
+Hello! I am a passionate backend developer focused on building robust, efficient, and scalable solutions. I specialize in API development, clean architecture design, database management, and deploying services in production environments.
 
-From an early age, I have been fascinated by the infinite potential of programming and how it can transform ideas into tangible realities.
+Although my main focus is backend, I have some experience in fullstack development, which allows me to understand the full application lifecycle and collaborate effectively with frontend teams.
 
-I am excited to be part of collaborative communities and contribute my skills to projects that challenge my creativity and help me grow professionally. My goal is not only to stand out among my peers but also to exceed the expectations of any employer or client I work with.
+I am proactive in learning, results-oriented, and always eager to adopt new technologies and best development practices. I am looking to contribute to challenging projects that drive innovation and continuous improvement.
 
-I am always open to new opportunities and eager to participate in projects that challenge me and allow me to keep learning and growing as a developer. Let’s connect and start creating together!
-
+Got an idea or project in mind? Let’s connect and make it happen!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-bazan-fernandez-8163b02aa/)
 
