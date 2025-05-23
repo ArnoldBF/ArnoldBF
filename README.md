@@ -7,13 +7,14 @@ I am proactive in learning, results-oriented, and always eager to adopt new tech
 
 Got an idea or project in mind? Let’s connect and make it happen!
 
-### 🌐 Let’s Connect!
+---
 
-[![🌐 Dev Profile](https://img.shields.io/badge/Dev%20Profile-devb.io%2FArnoldBF-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://devb.io/ArnoldBF)  
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-ArnoldBF-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-bazan-fernandez-8163b02aa/)
+### 🚀 Connect with Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-bazan-fernandez-8163b02aa/)
+🔗 **Dev Profile:** [devb.io/ArnoldBF](https://devb.io/ArnoldBF)  
+💼 **LinkedIn:** [linkedin.com/in/arnold-bazan-fernandez-8163b02aa](https://www.linkedin.com/in/arnold-bazan-fernandez-8163b02aa)
+
+---
 
 # 💻 Tech Stack:
 
