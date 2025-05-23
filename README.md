@@ -6,6 +6,8 @@ Although my main focus is backend, I have some experience in fullstack developme
 I am proactive in learning, results-oriented, and always eager to adopt new technologies and best development practices. I am looking to contribute to challenging projects that drive innovation and continuous improvement.
 
 Got an idea or project in mind? Let’s connect and make it happen!
+
+🚀 Check out my dev profile: [devb.io/your-username](https://devb.io/ArnoldBF)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-bazan-fernandez-8163b02aa/)
 
