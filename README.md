@@ -11,7 +11,6 @@ Got an idea or project in mind? Let’s connect and make it happen!
 
 ### 🚀 Connect with Me
 
-🔗 **Dev Profile:** [devb.io/ArnoldBF](https://devb.io/ArnoldBF)  
 💼 **LinkedIn:** [linkedin.com/in/arnold-bazan-fernandez-8163b02aa](https://www.linkedin.com/in/arnold-bazan-fernandez-8163b02aa)
 
 ---
