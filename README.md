@@ -47,7 +47,7 @@ Got an idea or project in mind? Let’s connect and make it happen!
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArnoldBF&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ArnoldBF&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArnoldBF&theme=tokyonight&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
