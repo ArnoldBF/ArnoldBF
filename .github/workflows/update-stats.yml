@@ -2,8 +2,8 @@ name: Generate GitHub Stats Image
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Ejecuta una vez al día
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: "0 0 * * *"  # Se ejecuta una vez al día
+  workflow_dispatch:     # Permite ejecución manual
 
 jobs:
   build:
@@ -12,20 +12,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_STATS_TOKEN }} # Usa tu token personal en vez del predeterminado
 
       - name: Generate GitHub Stats
         run: |
+          mkdir -p assets
           curl -H "Authorization: token ${{ secrets.GH_STATS_TOKEN }}" \
                "https://github-readme-stats.vercel.app/api?username=ArnoldBF&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" \
                --output assets/stats.svg
 
       - name: Commit and Push
-        env:
-          TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add assets/stats.svg
           git commit -m "🔄 Update GitHub stats" || echo "No changes to commit"
-          git remote set-url origin https://ArnoldBF:${TOKEN}@github.com/ArnoldBF/ArnoldBF.git
-          git push origin main
+          git push
