@@ -55,7 +55,7 @@ Got an idea or project in mind? Let’s connect and make it happen!
 
 ![GitHub Stats](./assets/stats.svg)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArnoldBF&theme=tokyonight&hide_border=false)<br/>
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldBF&layout=compact&theme=tokyonight)](https://github.com/ArnoldBF)
+
 
 ## 🏆 GitHub Trophies
 
