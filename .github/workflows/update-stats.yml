@@ -28,7 +28,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git remote set-url origin https://ArnoldBF:${TOKEN}@github.com/ArnoldBF/ArnoldBF.git
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/ArnoldBF/ArnoldBF.git
           git add assets/stats.svg
           git commit -m "🔄 Update GitHub stats" || echo "No changes to commit"
           git push origin main
